@@ -1,0 +1,27 @@
+{
+  "name": "parceltopublishsiteongithub_sitemodel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "predeploy": "rm -rf dist && parcel build index.html",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/followynne/ParcelToPublishSiteOnGithub_SiteModel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/followynne/ParcelToPublishSiteOnGithub_SiteModel/issues"
+  },
+  "homepage": "https://github.com/followynne/ParcelToPublishSiteOnGithub_SiteModel#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
