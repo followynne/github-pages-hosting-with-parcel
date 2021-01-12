@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "predeploy": "rm -rf dist && parcel build index.html --public-url https://followynne.github.io/ParcelToPublishSiteOnGithub_SiteModel/",
+    "predeploy": "rm -rf dist && parcel build index.html --public-url https://followynne.github.io/github-pages-hosting-with-parcel/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
@@ -22,6 +22,7 @@
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "jquery": "^3.5.0",
+    "parcel": "^1.12.4",
     "popper.js": "^1.15.0"
   },
   "devDependencies": {
