@@ -1,5 +1,5 @@
 {
-  "name": "parceltopublishsiteongithub_sitemodel",
+  "name": "github-pages-hosting-with-parcel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/followynne/ParcelToPublishSiteOnGithub_SiteModel.git"
+    "url": "git+https://github.com/followynne/github-pages-hosting-with-parcel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/followynne/ParcelToPublishSiteOnGithub_SiteModel/issues"
+    "url": "https://github.com/followynne/github-pages-hosting-with-parcel/issues"
   },
-  "homepage": "https://github.com/followynne/ParcelToPublishSiteOnGithub_SiteModel#readme",
+  "homepage": "https://github.com/followynne/github-pages-hosting-with-parcel#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
