@@ -22,7 +22,7 @@
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "jquery": "^3.5.0",
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "popper.js": "^1.15.0"
   },
   "devDependencies": {
